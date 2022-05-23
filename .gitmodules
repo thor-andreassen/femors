@@ -1,0 +1,9 @@
+[submodule "mesh_deform"]
+	path = mesh_deform
+	url = https://github.com/thor-andreassen/mesh_deform.git
+[submodule "Slicing_Code"]
+	path = Slicing_Code
+	url = https://github.com/thor-andreassen/Slicing_Code.git
+[submodule "Hex_Code"]
+	path = Hex_Code
+	url = https://github.com/thor-andreassen/Hex_Code.git
