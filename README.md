@@ -3,11 +3,12 @@ Finite Element Mesh Overclosure Reduction and Slicing Code
 
 This code contains functions to slice remove overclosures of 2D and 3D meshes using RBF Networks, as well as conventional nodal adjustment. It also contains helper functions, that can slice and load stl geometries as well as maniuplate and view 3D hexahedral meshes.
 
-This code was developed with another project to make freely available geometries of the lower limbs of the Visibile Human Female and Visible Human Male. Whereby, this code was used in the final stages to remove all overclosures between adjacent geometries.
+This code was developed with another project to make freely available geometries of the lower limbs of the Visibile Human Female and Visible Human Male. Whereby, this code was used in the final stages to remove all overclosures between adjacent geometries. This project and all geometries are available at the following:
+https://digitalcommons.du.edu/visiblehuman/
 
 The code has been implemented in MATLAB utilizing the Machine Learning Toolbox and is available free and open-source, but we ask that you cite the following two works:
 
-TE Andreassen, DR Hume, LD Hamilton, SE Higinbotham, KB Shelburne (in review) “An Automated Process for 2D and 3D Finite Element Overclosure and Gap Adjustment using Radial Basis Function Networks,” Computer Methods and Programs in Biomedicine, 2022.
+Andreassen, T. E., Hume, D. R., Hamilton, L. D., Higinbotham, S. E. & Shelburne, K. B. An Automated Process for 2D and 3D Finite Element Overclosure and Gap Adjustment using Radial Basis Function Networks. 1–13 (2022) doi: https://doi.org/10.48550/arXiv.2209.06948
 
 TE Andreassen, DR Hume, LD Hamilton, K Walker, SE Higinbotham, KB Shelburne (in review) “Three-dimensional lower extremity musculoskeletal geometry of the Visible Human Female and Male,” Scientific Data, 2022.
 
