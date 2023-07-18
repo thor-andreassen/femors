@@ -7,3 +7,6 @@
 [submodule "Hex_Code"]
 	path = Hex_Code
 	url = https://github.com/thor-andreassen/Hex_Code.git
+[submodule "MeshMorph"]
+	path = MeshMorph
+	url = https://github.com/thor-andreassen/MeshMorph
