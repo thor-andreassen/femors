@@ -1,5 +1,5 @@
 # femors
-Finite Element Morphing, Overclosure Removal and Slicing Code
+Finite Element Morphing, Overclosure Removal, and Slicing Code
 
 This code contains a package of functions to morph template meshes to other geometries, remove overclosures of 2D and 3D meshes using RBF Networks, and slice stls into individual image stacks. It also contains helper functions for rigid ICP, and mesh smoothing. The code also contains examples of existing algorithms for these methods along with the proposed RBF based version herein.
 
