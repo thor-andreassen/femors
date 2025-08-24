@@ -10,3 +10,6 @@
 [submodule "MeshMorph"]
 	path = MeshMorph
 	url = https://github.com/thor-andreassen/MeshMorph
+[submodule "GIBBON"]
+	path = GIBBON
+	url = https://github.com/gibbonCode/GIBBON.git
